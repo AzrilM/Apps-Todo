@@ -76,6 +76,15 @@ body{
   box-shadow: inset 0px 0px 5px #000;
 }
 
+.brand-logo {
+  display: block;
+  text-decoration: none;
+  padding: 20px;
+  color: #ddd;
+  float: left;
+  font-size: 25px;
+}
+
 ::selection{
   color: #fff;
   background: #3C87FF;
